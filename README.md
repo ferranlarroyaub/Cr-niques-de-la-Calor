@@ -18,3 +18,9 @@ In this citizen science project, we use MeteoTracker (https://meteotracker.com/)
   3. Go out on the street by walking, with the temperature sensors recording the GPS location and the weather variables (with high resolution of a few seconds) and perform the previously agreed route.
   4. Stop at the various places of interest, previously defined, and perform a survey on the feeling of heat to the participants. In this way, we can compare the actual temperature measured by the sensor with the general temperature sensation of the group.
   5. Preparation of a report and presentation of the results to the community, discussing together the results and the observations made.
+
+<br> 
+
+### The repository is distributed as follows:
+
+4 folders corresponding to the 4 cases of study mentioned above. In each folder, we can find the Data (Original and Processed), the Figures and the Code (Jupyter Notebook) of the different sesions performed. 

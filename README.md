@@ -21,6 +21,8 @@ In this citizen science project, we use MeteoTracker (https://meteotracker.com/)
 
 <br> 
 
-### The repository is distributed as follows:
+### Repository description:
 
-4 folders corresponding to the 4 cases of study mentioned above. In each folder, we can find the Data (Original and Processed), the Figures and the Code (Jupyter Notebook) of the different sesions performed. 
+- It contains 4 folders corresponding to the 4 cases of study mentioned above. In each folder, we can find the Data (Original and Processed), the Figures and the Code (Jupyter Notebook) of the different sesions performed.
+- Data processing has been kept simple. We eliminated duplicates and the first (and sometimes last) timestamps, where the sensor is being calibrated with the ambient temperature and/or inside a building.
+- The code is basically the same in each folder, adapted to each particular case study and location. We plan to create a general code that brings together the general functions used for the study and that can be applied to all cases.

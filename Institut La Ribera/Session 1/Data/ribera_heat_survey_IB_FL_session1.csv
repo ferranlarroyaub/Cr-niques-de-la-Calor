@@ -1,0 +1,5 @@
+space,category,latitud,longitud,T_sens_cold_plus,T_sens_cold,T_sens_normal,T_sens_hot,T_sens_hot_plus,T_real,number_of_votes,weighted_results
+Ins. La Ribera,E,41.479924,2.189625,0,10,3,0,0,27.3,13,2.230769230769231
+CAP,S,41.481691,2.188588,1,9,2,1,0,26.8,13,2.230769230769231
+Estació,T,41.484279,2.187961,1,8,2,1,1,26.7,13,2.4615384615384617
+Boheme,LLT/D,41.484336,2.187304,5,6,0,0,2,26.3,13,2.076923076923077

@@ -1,0 +1,6 @@
+space,category,latitud,longitud,T_sens_cold_plus,T_sens_cold,T_sens_normal,T_sens_hot,T_sens_hot_plus,T_real,number_of_votes,weighted_results
+Camp de Futbol,EE,41.39043818745053,2.0051803317000494,0,0,0,1,7,32.4,8,4.875
+Salesians,E,41.389752141229415,2.008191501784708,0,0,1,2,5,30.8,8,4.5
+Ajuntament,C,41.39326370496735,2.009678061646029,0,5,2,1,0,29.3,8,2.5
+CAP,S,41.39518557629554,2.0112751156809865,0,3,1,1,3,29.5,8,3.5
+Escola,E,41.39242099085925,2.003659892487341,0,1,3,1,3,28.0,8,3.75
